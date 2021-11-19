@@ -1,0 +1,10 @@
+1-cambie los "alt" de mis imagenes por algo mas descriptivo sobre ellas.
+2-modifique los "h1,h2,etc" por relevancia y descendentemente.
+3-mofifique el titulo para que sea mas llamativo y cumpla con los 35 o mas caractereres recomendados.
+4-aplique correctamente los divs semanticos, como por ejemplo "header, section,footer".
+5- mi index cada dia esta mas "responsive" lo que favorece al posicionamiento de google.
+6-mofique la ruta de mis imagenes haciendolo mas despriptivo.
+7- agregue meta descripcion
+8- agregue meta kz, lo que ayuda buscar la pagina con estas palabras claves.
+9- property open graph, para cuando compartan mi pagina en redes sociales.
+10- divs organizados.

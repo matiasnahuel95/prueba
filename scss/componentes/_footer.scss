@@ -1,0 +1,27 @@
+footer {
+    background-color: rgba( $bgseccolor, 0.2);
+    width: 100%;
+    border: 1px solid black;
+    color: $color_primeria;
+    height: 160px;
+    margin-top: 20px;
+    nav {
+        ul {
+            padding: 0;
+            li {
+                list-style: none;
+                color: $color_primeria;
+                a {
+                    display: inline-block;
+                    margin: 10px;
+                    padding: 5px;
+                    border-radius: 1px solid white;
+                    color: $color_primeria;
+                    &:hover {
+                        color: aqua;
+                    }
+                }
+            }
+        }
+    }
+}
